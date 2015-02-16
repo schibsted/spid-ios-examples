@@ -1,7 +1,7 @@
-SPiD SDK for iOS
-================
+SPiD Examples for iOS
+=====================
 
-Supported versions of iOS is 5 or greater.
+Example apps developed using the iOS SDK.
 
 For information and the development guides see our [Documentation](http://schibsted.github.com/sdk-ios "Documentation").
 
